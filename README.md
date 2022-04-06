@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/previews/logo.svg" alt="DT Money" width="280"/>
+   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/logo.svg" alt="DT Money" width="280"/>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kayque%20Avelar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slooock/)](https://www.linkedin.com/in/slooock/)

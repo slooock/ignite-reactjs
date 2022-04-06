@@ -22,8 +22,8 @@
 ### Fotos
 
 <div>
-   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/main/02-dtmoney/src/assets/previews/preview1.png" width="500px" />
-   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/main/02-dtmoney/src/assets/previews/preview2.gif" width="500px" />
+  <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/previews/preview1.png" width="500px" />
+  <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/previews/preview2.gif" width="500px" />
 </div>
 
 # :computer: Tecnologias

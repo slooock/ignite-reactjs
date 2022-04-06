@@ -21,7 +21,7 @@
 
 ### Fotos
 
-<div style="display: flex;">
+<div style="display: flex !important;">
   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/previews/preview1.png" width="500px" />
   <img src="https://raw.githubusercontent.com/slooock/ignite-reactjs/master/src/assets/previews/preview2.gif" width="500px" />
 </div>
